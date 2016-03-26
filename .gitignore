@@ -6,3 +6,4 @@ __pycache__
 *.pyproj
 *.pyproj.user
 *.p12
+.gitignore
